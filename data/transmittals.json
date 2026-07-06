@@ -32,8 +32,8 @@
     "stage": "DCP2/3",
     "discipline": "Civil & Structural",
     "dateReceived": "2026-07-06",
-    "status": "new",
-    "reviewedBy": "",
+    "status": "under-review",
+    "reviewedBy": "M. Hussain",
     "packageUrl": "https://limewire.com/d/uXe3l#Dt8edvxY8Y",
     "updatedAt": "2026-07-06 21:57",
     "history": [
@@ -50,6 +50,13 @@
         "by": "Document Control",
         "note": "",
         "cat": "package"
+      },
+      {
+        "dt": "2026-07-06 21:57",
+        "action": "Review Started",
+        "by": "M. Hussain",
+        "note": "",
+        "cat": "review"
       }
     ]
   }
